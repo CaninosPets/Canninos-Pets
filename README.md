@@ -1,4 +1,4 @@
-# Canninos-Pets
+# :dog: Canninos-Pets :dog:
 
 # :star: COMPONETE METODOLOGICO
 
