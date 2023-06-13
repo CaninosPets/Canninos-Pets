@@ -1,6 +1,6 @@
 # :dog: Canninos-Pets :dog:
 
-# :star: COMPONETE METODOLOGICO
+# :star: COMPONENTE METODOLOGICO
 
 ## PLANTEAMIENTO
 ## ALCANCE
