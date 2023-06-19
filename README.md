@@ -7,6 +7,7 @@ Varias empresas no optan por brindar información acerca de los alimentos para l
 ## ALCANCE 
 El alcance del proyecto va dirigido solo a personas interesadas en la página de mascotas a la cual se deberán registrar previamente para poder acceder a la información y a todos los servicios que proporciona la página web.
 ## JUSTIFICACIÓN
+
 ## OBJETIVOS
 ### OBJETIVO GENERAL
 ### OBJETIVOS ESPECIFICOS
